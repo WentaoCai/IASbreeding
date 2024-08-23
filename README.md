@@ -1,7 +1,7 @@
 ### IASbreeding R Package
 
 IASbreeding V0.1.0 can calculate kinship matrix, variance component analysis using linear mixed model, breeding value using BLUP. The core algorithm of IASbreeding is built using Rcpp and RcppEigen.
-
+###	IAS-breeding website http://iasbreeding.cn/
 ###	Install IAS-breeding software
 Start an R session using RStudio and run these lines:  
 ```
